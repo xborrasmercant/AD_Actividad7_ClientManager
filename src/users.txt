@@ -1,0 +1,132 @@
+
+[INICI_FITXER]
+[CLIENT]
+[NOM]
+pablo
+[COGNOM]
+motos
+[EDAT]
+50
+[TELÈFON]
+654324675
+[EMAIL]
+pablomotos@gmail.com
+[FI_CLIENT]
+
+[CLIENT]
+[NOM]
+Hola
+[COGNOM]
+Quease
+[EDAT]
+54
+[TELÈFON]
+666775354
+[EMAIL]
+hola@que.ase
+[FI_CLIENT]
+
+[CLIENT]
+[NOM]
+Client 1
+[COGNOM]
+Lastname 1
+[EDAT]
+30
+[TELÈFON]
+123456789
+[EMAIL]
+client1@example.com
+[FI_CLIENT]
+
+[CLIENT]
+[NOM]
+Client 2
+[COGNOM]
+Lastname 2
+[EDAT]
+35
+[TELÈFON]
+987654321
+[EMAIL]
+client2@example.com
+[FI_CLIENT]
+
+[CLIENT]
+[NOM]
+Client 3
+[COGNOM]
+Lastname 3
+[EDAT]
+40
+[TELÈFON]
+555555555
+[EMAIL]
+client3@example.com
+[FI_CLIENT]
+
+[CLIENT]
+[NOM]
+Client 4
+[COGNOM]
+Lastname 4
+[EDAT]
+45
+[TELÈFON]
+111111111
+[EMAIL]
+client4@example.com
+[FI_CLIENT]
+
+[CLIENT]
+[NOM]
+Client 5
+[COGNOM]
+Lastname 5
+[EDAT]
+50
+[TELÈFON]
+222222222
+[EMAIL]
+client5@example.com
+[FI_CLIENT]
+
+[CLIENT]
+[NOM]
+Client 6
+[COGNOM]
+Lastname 6
+[EDAT]
+55
+[TELÈFON]
+333333333
+[EMAIL]
+client6@example.com
+[FI_CLIENT]
+
+[CLIENT]
+[NOM]
+Client 7
+[COGNOM]
+Lastname 7
+[EDAT]
+60
+[TELÈFON]
+444444444
+[EMAIL]
+client7@example.com
+[FI_CLIENT]
+
+[CLIENT]
+[NOM]
+Client 8
+[COGNOM]
+Lastname 8
+[EDAT]
+65
+[TELÈFON]
+777777777
+[EMAIL]
+client8@example.com
+[FI_CLIENT]
+[FI_FITXER]
