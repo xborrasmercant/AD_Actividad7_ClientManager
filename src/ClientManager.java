@@ -72,6 +72,8 @@ public class ClientManager {
     }
     public void printClientInfo(ArrayList<Client> clientsArrayList, Scanner input) {
         int idToCheck = 0;
+        Boolean idExists = false;
+
         System.out.print("Enter the ID of the client you want to view: ");
 
         try {
@@ -81,12 +83,16 @@ public class ClientManager {
             return;
         }
 
+
         for (Client c : clientsArrayList) {
             if (c.getID() == idToCheck)
                 c.printInfo();
-            else {
-                System.out.println("The client with ID '" + idToCheck + "' does not exists.");
-            }
+                idExists = true;
+
+        }
+
+        if (!idExists) {
+            System.out.println("The client with ID '" + idToCheck + "' does not exists.");
         }
     }
     public void addClientToFile(File clientsFile, Scanner input) {

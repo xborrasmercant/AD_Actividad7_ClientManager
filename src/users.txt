@@ -1,4 +1,5 @@
 
+
 [INICI_FITXER]
 [CLIENT]
 [NOM]
